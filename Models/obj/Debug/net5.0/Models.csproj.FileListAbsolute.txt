@@ -1,0 +1,12 @@
+C:\Users\Büşra Betül\Desktop\odev-4-betulbusradinler\Models\bin\Debug\net5.0\Models.deps.json
+C:\Users\Büşra Betül\Desktop\odev-4-betulbusradinler\Models\bin\Debug\net5.0\Models.dll
+C:\Users\Büşra Betül\Desktop\odev-4-betulbusradinler\Models\bin\Debug\net5.0\Models.pdb
+C:\Users\Büşra Betül\Desktop\odev-4-betulbusradinler\Models\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+C:\Users\Büşra Betül\Desktop\odev-4-betulbusradinler\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Büşra Betül\Desktop\odev-4-betulbusradinler\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\Users\Büşra Betül\Desktop\odev-4-betulbusradinler\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\Users\Büşra Betül\Desktop\odev-4-betulbusradinler\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Büşra Betül\Desktop\odev-4-betulbusradinler\Models\obj\Debug\net5.0\Models.dll
+C:\Users\Büşra Betül\Desktop\odev-4-betulbusradinler\Models\obj\Debug\net5.0\refint\Models.dll
+C:\Users\Büşra Betül\Desktop\odev-4-betulbusradinler\Models\obj\Debug\net5.0\Models.pdb
+C:\Users\Büşra Betül\Desktop\odev-4-betulbusradinler\Models\obj\Debug\net5.0\ref\Models.dll
